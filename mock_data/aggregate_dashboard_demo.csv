@@ -1,0 +1,19 @@
+reporting_period,management_category,mineral_class,sample_count,scored_count,median_score_percentile,percent_moderate_high_or_high,carbon_storage_index,biological_activity_index,physical_structure_index,display_allowed
+2023-2024,Perennial systems,HAC,38,36,72,69,76,71,66,TRUE
+2023-2024,Annual systems,HAC,31,29,58,55,61,57,54,TRUE
+2023-2024,Grazed systems,HAC,19,18,64,61,68,62,63,TRUE
+2023-2024,Perennial systems,LAC,27,26,55,50,57,54,52,TRUE
+2023-2024,Annual systems,LAC,42,39,43,38,46,45,48,TRUE
+2023-2024,Grazed systems,LAC,16,15,51,47,52,49,57,TRUE
+2023-2024,Perennial systems,PNCM,14,13,67,62,70,64,68,TRUE
+2023-2024,Annual systems,PNCM,9,8,49,44,53,47,51,TRUE
+2023-2024,Grazed systems,PNCM,4,4,61,50,66,58,60,FALSE
+2024-2025,Perennial systems,HAC,45,43,75,72,79,74,68,TRUE
+2024-2025,Annual systems,HAC,36,34,62,59,65,61,58,TRUE
+2024-2025,Grazed systems,HAC,22,21,66,62,70,65,64,TRUE
+2024-2025,Perennial systems,LAC,33,31,59,55,61,58,55,TRUE
+2024-2025,Annual systems,LAC,48,45,47,42,49,48,51,TRUE
+2024-2025,Grazed systems,LAC,18,17,54,53,55,52,59,TRUE
+2024-2025,Perennial systems,PNCM,17,16,70,69,73,68,71,TRUE
+2024-2025,Annual systems,PNCM,11,10,53,50,56,51,55,TRUE
+2024-2025,Grazed systems,PNCM,3,3,63,67,68,61,62,FALSE
